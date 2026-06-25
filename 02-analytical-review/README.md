@@ -12,4 +12,4 @@ Each prompt file documents the task, the prompt (v1 rough and
 v2 refined), example output, and a verification log noting what 
 the AI got wrong.
 
-*Files coming soon.*
+
